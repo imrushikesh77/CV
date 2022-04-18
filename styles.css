@@ -1,0 +1,24 @@
+body{
+  background-color:#95D1CC;
+}
+h1{
+color: #2FA4FF;
+}
+h3{
+color: #2FA4FF;
+}
+hr{
+  border-style: none;
+  border-top-style: solid;
+  border-color:black;
+  border-width:thin;
+  width: 100%;
+}
+img:hover{
+  background-color: #EFFFFD;
+  border-radius: 100px;
+}
+img{
+  background-color: white;
+  border-radius: 100px;
+}
